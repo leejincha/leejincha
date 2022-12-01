@@ -2,7 +2,7 @@
 
 
 - 👩🏻‍💻 I’m an ex-cabin crew 🛫 and now I'm currently learning Spring Boot.
-- 💡 I hope that I can make a worthwhile service to help solve a problem in society.
+- 💡 I hope that I can make a worthwhile service which can help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: leejincha@gmail.com 
 
