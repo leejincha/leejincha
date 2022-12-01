@@ -7,5 +7,4 @@
 - 📧 How to reach me: leejincha@gmail.com 
 
 💼 any freelance work? do reach, email :)
-💬 ask me about anything, i am happy to help;
-languages and tools:
+💬 ask me about anything, i am happy to help
