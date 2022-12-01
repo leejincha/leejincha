@@ -5,7 +5,7 @@
 - 💡 I hope that I can make a worthwhile service which can help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: leejincha@gmail.com 
-- 📚 Check my coding blog here! [Blog](https://leejincha.tistory.com/, "google link") 
+- 📚 Check my coding blog here! <https://leejincha.tistory.com/>
 
 ----------------------------------------------
 
