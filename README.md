@@ -26,7 +26,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeejinCha&langs_count=5&layout=compact)](https://github.com/leejincha/github-readme-stats)    
   
-![leejincha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeejinCha&theme=swift&show_icons=true)
+![leejincha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeejinCha&theme=vue&show_icons=true)
 
 
 
