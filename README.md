@@ -2,7 +2,7 @@
 
 
 
-- 👩🏻‍💻 I’m an ex-cabin crew 🛫 and now I'm currently learning Spring Boot.
+- 👩🏻‍💻 I’m an ex-cabin crew 🛫 Currently, I'm learning Spring Boot.
 - 💡 I want to be a developer who can make a worthwhile service and help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: leejincha@gmail.com 
