@@ -6,7 +6,7 @@
 - 💡 I want to be a developer who can make a worthwhile service and help solve a problem in society.
 - 🙌🏻 Any kinds of feedback is most welcome!
 - 📧 How to reach me: leejincha@gmail.com 
-- 📚 Check my coding blog here! <https://leejincha.tistory.com/>
+- 📚 Check my dev blog here! <https://leejincha.tistory.com/>
 
 -------------------------
 <div align="center">
